@@ -1,4 +1,4 @@
-let length = 5
+let length = 3
 let level = length;
 
 function click(n, m) {
