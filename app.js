@@ -10,3 +10,5 @@ function click(n, m) {
 for (let i = 0; i < 20; i++) {
     console.log(click(level, length))
 }
+// if (level === length - 1) { show all but last since its always showing}
+// else { hide level[level + 1]}
